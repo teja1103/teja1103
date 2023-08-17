@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **teja1103/teja1103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
