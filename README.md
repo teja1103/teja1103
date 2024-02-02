@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Yalamaanchili Surya Teja</h1>
 <h3 align="center">A passionate frontend developer from Hyderabad</h3>
-I’m currently working on [NutriSafe](https://nutrisafe.vercel.app/)<br><br>I’m currently learning Next js<br><br>How to reach me suryatejaprogramming@gmail.com<br><br>Know about my experiences https://drive.google.com/file/d/1720xcSoG2uvZuGbEeHX-Ma0IbTusqI5c/view?usp=sharing
+I’m currently working on [[NutriSafe](https://nutrisafe.vercel.app/)]<br><br>I’m currently learning Next js<br><br>How to reach me suryatejaprogramming@gmail.com<br><br>Know about my experiences https://drive.google.com/file/d/1720xcSoG2uvZuGbEeHX-Ma0IbTusqI5c/view?usp=sharing
 
 
 ## 🌐 Socials:
