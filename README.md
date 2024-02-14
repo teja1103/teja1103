@@ -18,8 +18,7 @@ I’m currently learning Next js<br><br>How to reach me suryatejaprogramming@gma
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=teja1103&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=teja1103&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 ---
 
