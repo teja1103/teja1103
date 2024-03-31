@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yalamaanchili Surya Teja</h1>
-<h3 align="center">A passionate frontend developer from Hyderabad</h3>
+<h3 align="center">A passionate fullstack developer from Hyderabad</h3>
 I’m currently learning Next js<br><br>How to reach me suryatejaprogramming@gmail.com<br><br>Know about my experiences https://drive.google.com/file/d/1FfCp0O7FYwvmqI6tlmmszJSagAmh8hc8/view?usp=sharing
 
 ## 🌐 Socials:
