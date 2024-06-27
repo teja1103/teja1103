@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yalamaanchili Surya Teja</h1>
 <h3 align="center">A passionate fullstack developer from Hyderabad</h3>
-I’m currently learning Next js<br><br>How to reach me suryatejaprogramming@gmail.com<br><br>Know about my experiences https://drive.google.com/file/d/1FfCp0O7FYwvmqI6tlmmszJSagAmh8hc8/view?usp=sharing
+I’m currently learning Next js<br><br>How to reach me suryatejaprogramming@gmail.com<br><br>Know about my experiences 
+https://drive.google.com/file/d/16vQKpO8KQonpOWh7YMzZB7TzrgbJqrw8/view
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/teja__011) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/surya-teja-yalamanchili-168426249/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@suryatejaprogramming) 
