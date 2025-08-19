@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yalamaanchili Surya Teja</h1>
 <h3 align="center">A passionate fullstack developer from Hyderabad</h3>
-I’m currently learning Fast API<br><br>How to reach me suryatejaprogramming@gmail.com<br><br>
+I’m currently learning Fast API<br><br>How to reach me suryatejayalamanchili@gmail.com<br><br>
 
 Know about my experiences 👉
  [Resume](https://drive.google.com/file/d/16vQKpO8KQonpOWh7YMzZB7TzrgbJqrw8/view)
