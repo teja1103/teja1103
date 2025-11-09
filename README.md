@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yalamaanchili Surya Teja</h1>
+<h1 align="center">Hi 👋, I'm Yalamanchili Surya Teja</h1>
 <h3 align="center">A passionate fullstack developer from Hyderabad</h3>
 I’m currently learning Fast API<br><br>How to reach me suryatejayalamanchili@gmail.com<br><br>
 
